@@ -11,5 +11,5 @@
     "branch"      : "lolla-updated-upstreamed",
     "clone-depth" : "1",
     "remote"      : "github"
-  },
+  }
 ]
