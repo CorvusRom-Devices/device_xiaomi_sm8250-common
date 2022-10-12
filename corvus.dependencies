@@ -1,0 +1,31 @@
+[
+  {
+    "repository" : "hardware_xiaomi",
+    "target_path": "hardware/xiaomi",
+    "branch"     : "12"
+  },
+  {
+    "repository" : "EmanuelCN/kernel_xiaomi_sm8250",
+    "target_path": "kernel/xiaomi/sm8250",
+    "branch"     : "munch",
+    "remote"     : "github"
+  },
+  {
+    "repository" : "riteshm321/vendor_xiaomi_sm8250-common",
+    "target_path": "vendor/xiaomi/sm8250-common",
+    "branch"     : "master",
+    "remote"     : "github"
+  },
+  {
+    "repository" : "madmax7896/android_vendor_xiaomi_munch",
+    "target_path": "vendor/xiaomi/munch",
+    "branch"     : "lineage-19.1",
+    "remote"     : "gitlab"
+  },
+  {
+    "repository" : "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch"     : "lineage-19.1",
+    "remote"     : "github"
+  }
+]
